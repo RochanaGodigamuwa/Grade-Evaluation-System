@@ -2,7 +2,7 @@
  
 <h3>Student Progression Outcomes Calculator</h3>
 
-<p>This repository contains Python scripts designed to calculate the progression outcomes of students in a university based on their credit scores. The scripts offer both student and staff versions, allowing for efficient data entry and outcome analysis.</p><br><br><br>
+<p>This repository contains Python scripts designed to calculate the progression outcomes of students in a university based on their credit scores. The scripts offer both student and staff versions, allowing for efficient data entry and outcome analysis.</p><br>
 
 
 <h3>Files:</h3>
