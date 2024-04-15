@@ -1,4 +1,4 @@
-# Grade-Evalution-System
+# Grade-Evaluation-System
  
 <h3>Student Progression Outcomes Calculator</h3>
 
